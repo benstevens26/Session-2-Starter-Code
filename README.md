@@ -7,3 +7,6 @@ A bit more detail about the project.
 # How to install
 
 # Authors
+
+# Documentation
+
